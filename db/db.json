@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Hayoda",
+      "singer": "Anirudh Ravichander",
+      "genre": "Romantic",
+      "imgUrl": "https://masstamilan.dev/w/jawan-tamil-2023.webp",
+      "songUrl": "Songs/hayoda.mp3"
+    },
+    {
+      "id": 2,
+      "title": "iraiva",
+      "singer": "leo james",
+      "genre": "Romantic",
+      "imgUrl": "https://masstamilan.dev/w/dragon-tamil-2025.webp",
+      "songUrl": "Songs/Iraivaa.mp3"
+    },
+    {
+      "id": 3,
+      "title": "retro",
+      "singer": "santhosh narayanan",
+      "genre": "Romantic",
+      "imgUrl": "https://masstamilan.dev/w/retro-tamil-2025-kannadi-poove.webp",
+      "songUrl": "Songs/Kannadi poove.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Dheema",
+      "singer": "Anirudh Ravichander",
+      "genre": "love",
+      "imgUrl": "https://masstamilan.dev/w/love-insurance-kompany-lik-tamil-2025-dheema-vocals-only.webp",
+      "songUrl": "Songs/Dheema.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Vada Chennai",
+      "singer": "Sriram Parthasarathy, Vijaynarain, Ananthu, Santhosh Narayanan, Pradeep Kumar",
+      "genre": "love",
+      "imgUrl": "https://masstamilan.dev/w/vada-chennai-2018.webp",
+      "songUrl": "Songs/Kaarkuzhal-Kadavaiye.mp3"
+    },
+    {
+      "id": 6,
+      "title": "aadukalam",
+      "singer": "G V Prakash",
+      "genre": "love",
+      "imgUrl": "https://masstamilan.dev/w/aadukalam-2010.webp",
+      "songUrl": "Songs/Ayyayo.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Dinamum",
+      "singer": "leo james",
+      "genre": "love feel",
+      "imgUrl": "https://masstamilan.dev/w/oh-my-kadavule-additional-songs-and-bgm-original-background-score-2020.webp",
+      "songUrl": "Songs/Dinamum Dinamum.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 4,
+      "title": "Dheema",
+      "imgUrl": "https://masstamilan.dev/w/love-insurance-kompany-lik-tamil-2025-dheema-vocals-only.webp",
+      "genre": "love",
+      "songUrl": "Songs/Dheema.mp3",
+      "singer": "B Praak",
+      "id": 6
+    },
+    {
+      "itemId": 2,
+      "title": "iraiva",
+      "imgUrl": "https://masstamilan.dev/w/dragon-tamil-2025.webp",
+      "genre": "Romantic",
+      "songUrl": "Songs/Iraivaa.mp3",
+      "singer": "leo james",
+      "id": 7
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 6,
+      "title": "adukalam",
+      "imgUrl": "https://masstamilan.dev/w/aadukalam-2010.webp",
+      "genre": "love",
+      "songUrl": "Songs/Ayyayo.mp3",
+      "singer": "G V Prakash",
+      "id": 4
+    },
+    {
+      "itemId": 2,
+      "title": "iraiva",
+      "imgUrl": "https://masstamilan.dev/w/dragon-tamil-2025.webp",
+      "genre": "Romantic",
+      "songUrl": "Songs/Iraivaa.mp3",
+      "singer": "leo james",
+      "id": 5
+    }
+  ]
+}
